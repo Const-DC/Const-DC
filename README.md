@@ -1,17 +1,11 @@
 # 🌟 CONST-DC - The Discord Automation Wizard 🌟
 
 <div align="center">
-
-![Matrix GIF](https://media.giphy.com/media/l0HlHFRbmaZtBRhXG/giphy.gif)
-
+<!-- Removed Matrix GIF -->
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=40&duration=3000&pause=500&color=00FF41&background=000000&center=true&vCenter=true&multiline=true&width=800&height=120&lines=🚀+INITIALIZING+SYSTEM...;⚡+CONST-DC+ONLINE;🔥+DISCORD+AUTOMATION+MASTER;💎+BREAKING+THE+META" alt="Epic Typing SVG">
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=WELCOME%20TO%20THE%20MATRIX&fontSize=50&fontColor=00FF41&animation=twinkling&fontAlignY=38&desc=Where%20Code%20Meets%20Chaos&descAlignY=60&descSize=20" width="100%"/>
+  <!-- Removed Typing SVG -->
 </div>
 
 <div align="center">
@@ -35,7 +29,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=18&duration=2000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=⚔️+AUTO+GRIND+ACTIVATED;🛡️+AUTO+HEAL+ENGAGED;⚙️+ULTRA+CONFIGURABLE;👻+STEALTH+MODE+ON;💀+UNDETECTED+PROTOCOL" alt="Features Typing">
+  <!-- Removed Typing SVG -->
 </div>
 
 ---
@@ -43,11 +37,12 @@
 ## 🧬 NEURAL NETWORK EXPANSION
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="300" alt="Brain GIF"/>
+ <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWk3MGQzZW55aHdoNjg5dXJmMDI0eWFsdnRkNWJxam04eXVzdHF3MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hWzyynpq7gYpao3iwd/giphy.gif" width="300" alt="Brain GIF"/>
+
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=FF6B35&center=true&vCenter=true&width=700&lines=🔬+JAVA+MASTERY+IN+PROGRESS;🤖+MACHINE+LEARNING+PROTOCOLS;🎯+TENSORFLOW+NEURAL+NETS;🐍+DISCORD.PY-SELF+WEAPONIZATION" alt="Learning Typing">
+  <!-- Removed Typing SVG -->
 </div>
 
 ---
@@ -63,7 +58,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2500&pause=500&color=FFD700&center=true&vCenter=true&width=800&lines=🐍+Python+%7C+Advanced+Automation+Scripts;🗄️+MySQL+%7C+Database+Domination;🧠+TensorFlow+%7C+AI+Revolution;🌐+HTML%2FCSS+%7C+Web+Wizardry;⚡+C%2B%2B+%7C+Performance+Beast;🎮+Discord.py+%7C+Bot+Mastery" alt="Skills Typing">
+  <!-- Removed Typing SVG -->
 </div>
 
 ---
@@ -87,7 +82,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&duration=4000&pause=1000&color=FF1493&center=true&vCenter=true&width=500&lines=📧+SECURE+LINE%3A+i2wog@outlook.com;🔐+ENCRYPTED+COMMUNICATION+ONLY" alt="Contact Typing">
+  <!-- Removed Typing SVG -->
 </div>
 
 ---
@@ -140,11 +135,12 @@
 ## 🎭 THE PHILOSOPHY
 
 <div align="center">
-  <img src="https://media.giphy.com/media/26tn8zKqZNp5cOSPe/giphy.gif" width="400" alt="Matrix Code"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWd3NHNoa3hqb2ZzYnNlNnA1NjdpNnYydHdjM3l0MGlqcTB5bjk0ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wkW0maGDN1eSc/giphy.gif" width="400" alt="Matrix Code"/>
+
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=28&duration=4000&pause=2000&color=FFD700&center=true&vCenter=true&width=800&lines=💀+PAY+TO+WIN%3F+I+CAN+FIX+THAT;⚡+BREAKING+THE+SYSTEM+SINCE+DAY+ONE;🔥+CODE+IS+POETRY%2C+AUTOMATION+IS+ART;👑+MAKING+THE+IMPOSSIBLE+POSSIBLE" alt="Philosophy Typing">
+  <!-- Removed Typing SVG -->
 </div>
 
 ---
@@ -155,12 +151,10 @@
   <img src="https://media.giphy.com/media/3o7qDEq2bMbcbPRQ2c/giphy.gif" width="400" alt="Space GIF"/>
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=footer&text=THANKS%20FOR%20ENTERING%20THE%20MATRIX&fontSize=30&fontColor=00FF41&animation=fadeIn&fontAlignY=70&desc=May%20the%20code%20be%20with%20you&descAlignY=85&descSize=15" width="100%"/>
-</div>
+<!-- Removed Waving Capsule "THANKS FOR ENTERING THE MATRIX" -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=18&duration=3000&pause=1000&color=FF1493&center=true&vCenter=true&width=600&lines=🌟+STAR+THIS+REPO+IF+YOU+DARE;👀+FOLLOW+FOR+MORE+CHAOS;💻+LET'S+BREAK+SOME+RULES+TOGETHER" alt="Final CTA">
+  <!-- Removed Typing SVG -->
 </div>
 
 ---
