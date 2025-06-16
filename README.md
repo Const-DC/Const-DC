@@ -85,38 +85,51 @@
 ## 📡 COMMUNICATION CHANNELS
 
 <div align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="300" alt="Network GIF"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXZub3R0bm1xbDFyc3IzbzkwMWI5N3pueHd6ZGozZW15dnh0OXFoOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wgulSzD0jZlqeewK3p/giphy.gif" width="300" alt="Fang Yuan GIF"/>
 </div>
 
 <div align="center">
   <a href="https://twitter.com/i2wog" target="_blank">
-    <img src="https://img.shields.io/badge/🐦%20TWITTER-@i2wog-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=000000"/>
+    <img src="https://img.shields.io/badge/Twitter-%40i2wog-ffb199?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+
   <a href="https://instagram.com/i2wog" target="_blank">
-    <img src="https://img.shields.io/badge/📸%20INSTAGRAM-i2wog-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000"/>
+    <img src="https://img.shields.io/badge/Instagram-i2wog-f9a1bc?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
+
   <a href="https://discord.com/users/1145933450092752996" target="_blank">
-    <img src="https://img.shields.io/badge/👑%20DISCORD-CONST--DC-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=000000"/>
+    <img src="https://img.shields.io/badge/Discord-CONST--DC-cda4de?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
 </div>
 
 <div align="center">
-  <!-- Removed Typing SVG -->
+  <!-- Simple chess board (text-based for GitHub README) -->
+  <pre>
+♜ ♞ ♝ ♛ ♚ ♝ ♞ ♜
+♟ ♟ ♟ ♟ ♟ ♟ ♟ ♟
+· · · · · · · ·
+· · · · · · · ·
+· · · · · · · ·
+· · · · · · · ·
+♙ ♙ ♙ ♙ ♙ ♙ ♙ ♙
+♖ ♘ ♗ ♕ ♔ ♗ ♘ ♖
+  </pre>
+  <sub><i>“Let the game begin...” – Fang Yuan</i></sub>
 </div>
 
----
 
 ## 🏆 ACHIEVEMENT UNLOCKED
 
 <div align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" alt="Trophy GIF"/>
+  <img src="https://media.giphy.com/media/82LxelyjikPNdSQsZz/giphy.gif" width="300" alt="Trophy GIF"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=const-dc&theme=radical&no-frame=true&no-bg=true&margin-w=4&title=Stars,Commits,Followers,Repositories,PullRequest,Issues&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=const-dc&theme=gold&no-frame=true&no-bg=true&margin-w=4&title=Stars,Commits,Followers,Repositories,PullRequest,Issues&column=6" />
 </div>
 
 ---
+
 
 ## 📊 SYSTEM DIAGNOSTICS
 
