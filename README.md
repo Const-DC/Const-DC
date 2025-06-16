@@ -37,20 +37,7 @@
   <br><br>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWk3MGQzZW55aHdoNjg5dXJmMDI0eWFsdnRkNWJxam04eXVzdHF3MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hWzyynpq7gYpao3iwd/giphy.gif" height="40" />
   <br><br><br>
-  
-  <a href="https://github.com/Const-DC">
-    <img src="https://img.shields.io/badge/github-const--dc-333333?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://discord.com/users/1145933450092752996">
-    <img src="https://img.shields.io/badge/discord-i2wog-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/i2wog">
-    <img src="https://img.shields.io/badge/twitter-@i2wog-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/i2wog">
-    <img src="https://img.shields.io/badge/instagram-i2wog-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</div>
+
 
 
 ## 💻 ARSENAL & WEAPONS
