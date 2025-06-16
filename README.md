@@ -63,18 +63,22 @@
 ## 💻 ARSENAL & WEAPONS
 
 <div align="center">
-  <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="400" alt="Code GIF"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3N3JydHdwNTV5ZmM2M3Jjejl4b3hkYWl1MmIyZzllN2ZjemRkeW0xeiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/7C7pNe8NIpbFe/giphy.gif" width="400" alt="Hacker Core GIF"/>
 </div>
+
+<br>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,tensorflow,html,cpp,discord,git,github,vscode,linux&theme=dark&perline=5" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,tensorflow,html,cpp,discord,git,github,vscode,linux&theme=dark&perline=5" alt="Tech Stack" />
 </div>
+
+<br>
 
 <div align="center">
-  <!-- Removed Typing SVG -->
+  <a href="https://github.com/Const-DC" target="_blank">
+    <img src="https://img.shields.io/badge/👾%20Check%20My%20Repos-Click%20Here-informational?style=for-the-badge&logo=github&logoColor=white&color=8e44ad" alt="GitHub Link" />
+  </a>
 </div>
-
----
 
 ## 📡 COMMUNICATION CHANNELS
 
