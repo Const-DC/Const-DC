@@ -187,6 +187,28 @@
   <!-- Removed Typing SVG -->
 </div>
 
+
+# 🧠 HACKER QUEST: Terminal Trials
+
+> You wake up in a dark room lit by a flickering monitor...  
+> The screen shows two commands:
+
+- [Run `sudo ./escape.sh`](#escape-path)
+- [Run `cat ./logs.txt`](#log-path)
+
+---
+
+## 🏃‍♂️ Escape Path
+
+You execute the script.  
+Terminal says:
+
+```bash
+Connecting to backdoor...
+Access granted.
+
+
+
 ---
 
 <div align="center">
