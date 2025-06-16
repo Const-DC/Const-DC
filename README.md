@@ -1,20 +1,13 @@
-# 🌟 CONST-DC - The Discord Automation Wizard 🌟
+# 🌟 CONST-DC 🌟
 
 <div align="center">
-<!-- Removed Matrix GIF -->
+  <!-- Ultra clean and focused layout -->
 </div>
 
 <div align="center">
-  <!-- Removed Typing SVG -->
+  <img src="https://komarev.com/ghpvc/?username=const-dc&label=VISITORS&color=FFB347&style=for-the-badge&labelColor=1A1A1A" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/STATUS-⚡%20OPERATIONAL-FF884B?style=for-the-badge&labelColor=1A1A1A&logo=activitypub" alt="Status" />
 </div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=const-dc&label=👁️+WATCHERS&color=00FF41&style=for-the-badge&labelColor=000000" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/STATUS-🔥%20UNSTOPPABLE-red?style=for-the-badge&labelColor=000000&color=FF0000" alt="Status" />
-  <img src="https://img.shields.io/badge/DANGER%20LEVEL-💀%20MAXIMUM-purple?style=for-the-badge&labelColor=000000&color=8A2BE2" alt="Danger Level" />
-</div>
-
----
 
 ## 🎯 CURRENT MISSION STATUS
 
