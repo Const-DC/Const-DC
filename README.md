@@ -19,20 +19,14 @@
 ## 🎯 CURRENT MISSION STATUS
 
 <div align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" alt="Hacker GIF"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXpmeGVkd3dtNjNvZmRvbjcyc2wyMGowZncwZWU2c3MybTY5ZGRjZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/W226lD4k0WFzTCgays/giphy.gif" width="400" alt="Hacker GIF"/>
 </div>
 
 <div align="center">
-  <a href="https://github.com/Const-DC/EPIC-RPG-GRINDING-SELF-BOT-FOR-DISCORD/blob/main/main.py">
-    <img src="https://img.shields.io/badge/🎮%20EPIC%20RPG%20SELF--BOT-OPERATIONAL-success?style=for-the-badge&logo=discord&logoColor=white&labelColor=7289DA&color=00FF41&animation=pulse" alt="Current Project">
+  <a href="https://github.com/Const-DC/EPIC-RPG-GRINDING-SELF-BOT-FOR-DISCORD/blob/main/main.py" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/🎮%20EPIC%20RPG%20SELF--BOT-ONLINE-success?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2&color=57F287" alt="Project Status">
   </a>
 </div>
-
-<div align="center">
-  <!-- Removed Typing SVG -->
-</div>
-
----
 
 ## 🧬 NEURAL NETWORK EXPANSION
 
