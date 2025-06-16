@@ -37,15 +37,34 @@
 ## 🧬 NEURAL NETWORK EXPANSION
 
 <div align="center">
- <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWk3MGQzZW55aHdoNjg5dXJmMDI0eWFsdnRkNWJxam04eXVzdHF3MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hWzyynpq7gYpao3iwd/giphy.gif" width="300" alt="Brain GIF"/>
-
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2xwenQ5ZXRvbnE5b3RoNGViM29jeDE0b3g2eW9qaG4zbjFxM3Z2eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RjzUPCMgzZqAdepaOB/giphy.gif" width="25%" align="right" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=FF1493&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=welcome+to+the+matrix...;i'm+CONST-DC+%7C+automation+wizard+%7C+selfbot+engineer+%F0%9F%9A%80" width="70%" />
+  <br><br>
+  <pre>
+    🧠 ML & TensorFlow apprentice • Hardcore Python dev
+    🔧 Discord Self-Bot Architect • API Integrator
+    ⚙️ Automation enthusiast • Chaos engineer
+    🎮 RPG Grinder • Data tweaker • Digital rogue cultivator
+    🐉 Fan of Fang Yuan • Mastermind moves only
+  </pre>
+  <br><br>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWk3MGQzZW55aHdoNjg5dXJmMDI0eWFsdnRkNWJxam04eXVzdHF3MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hWzyynpq7gYpao3iwd/giphy.gif" height="40" />
+  <br><br><br>
+  
+  <a href="https://github.com/Const-DC">
+    <img src="https://img.shields.io/badge/github-const--dc-333333?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://discord.com/users/1145933450092752996">
+    <img src="https://img.shields.io/badge/discord-i2wog-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/i2wog">
+    <img src="https://img.shields.io/badge/twitter-@i2wog-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/i2wog">
+    <img src="https://img.shields.io/badge/instagram-i2wog-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 </div>
 
-<div align="center">
-  <!-- Removed Typing SVG -->
-</div>
-
----
 
 ## 💻 ARSENAL & WEAPONS
 
