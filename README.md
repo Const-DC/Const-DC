@@ -1,31 +1,36 @@
-Hi, I'm CONST-DC 👋
+# Hi, I'm CONST-DC 👋
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=const-dc&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
-About Me
 
-🐍 Python Developer
-🤖 Discord Bot Developer
-🎮 Epic RPG Self-Bot Creator
-🔧 Automation Enthusiast
+## About Me
+- 🐍 Python Developer
+- 🤖 Discord Bot Developer  
+- 🎮 Epic RPG Self-Bot Creator
+- 🔧 Automation Enthusiast
 
-Tech Stack
+## Tech Stack
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,discord,git,github,vscode,linux" alt="Tech Stack" />
 </div>
-GitHub Stats
+
+## GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=const-dc&show_icons=true&theme=dark&count_private=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=const-dc&layout=compact&theme=dark" width="48%" />
 </div>
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=const-dc&theme=dark" />
 </div>
-Activity Graph
+
+## Activity Graph
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=const-dc&theme=github-compact" width="100%"/>
 </div>
-Connect With Me
+
+## Connect With Me
 <div align="center">
   <a href="https://twitter.com/i2wog">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
