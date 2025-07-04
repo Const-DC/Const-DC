@@ -9,6 +9,7 @@
 - 🤖 Discord Bot Developer  
 - 🎮 Epic RPG Self-Bot Creator
 - 🔧 Automation Enthusiast
+- "Privated many repo"
 
 ## Tech Stack
 <div align="center">
