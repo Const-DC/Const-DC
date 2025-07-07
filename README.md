@@ -9,7 +9,8 @@
 
 
 
-## -----------------------------------------------------------------------------------------------------------------------------------
+## Currently the things i know :-
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,rust,discord,git,github,vscode,linux" alt="Tech Stack" />
 </div>
