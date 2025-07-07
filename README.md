@@ -1,16 +1,12 @@
 # CONST-DC
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=const-dc&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
-
 
 ![22890-3840x2160-desktop-4k-breaking-bad-wallpaper-photo](https://github.com/user-attachments/assets/efd9e9d7-fffa-40be-8406-62edba7b1ad4)
 
 
 
 
-## Currently the things i know :-
+## Langs & Use's 
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,rust,discord,git,github,vscode,linux" alt="Tech Stack" />
