@@ -4,7 +4,8 @@
   <img src="https://komarev.com/ghpvc/?username=const-dc&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
 
-[![Chess.com](https://chess.com/bundles/web/images/offline-play/standardboard.1d6f9426.png)](https://chess.com/member/i2wog)
+
+![22890-3840x2160-desktop-4k-breaking-bad-wallpaper-photo](https://github.com/user-attachments/assets/efd9e9d7-fffa-40be-8406-62edba7b1ad4)
 
 
 
