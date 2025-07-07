@@ -4,6 +4,9 @@
   <img src="https://komarev.com/ghpvc/?username=const-dc&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
 
+[![Chess.com](https://chess.com/bundles/web/images/offline-play/standardboard.1d6f9426.png)](https://chess.com/member/i2wog)
+
+
 ## About Me
 - 🐍 Python Developer
 - 🤖 Discord Bot Developer  
