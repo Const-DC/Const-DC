@@ -13,8 +13,9 @@
 
 ## Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,discord,git,github,vscode,linux" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,rust,discord,git,github,vscode,linux" alt="Tech Stack" />
 </div>
+
 
 ## GitHub Stats
 <div align="center">
