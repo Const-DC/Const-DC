@@ -3,7 +3,7 @@
 
 ![22890-3840x2160-desktop-4k-breaking-bad-wallpaper-photo](https://github.com/user-attachments/assets/efd9e9d7-fffa-40be-8406-62edba7b1ad4)
 
-
+# current aim "reach 100 projects at the end of this year"
 
 
 ## Langs & Use's 
